@@ -1,4 +1,4 @@
-# Demo padrão de projeto JAVA
+# Demo padrão de projeto Observer na linguagem JAVA
  - O padrão de projeto Observer permite notificar os objetos quando determinada ação acontecer;
  No exemplo foi desenvolvida a classe `Observer`, que define a estrutura que a classe deve seguir para ser um observer, no caso foi utilizada uma classe abstrata, mas poderia ser uma interface.
 
